@@ -2,8 +2,6 @@
 
 ## Web Architecture
 
-
-
 ## HTML Syntax
 ## Document Structure
 ## Elements
